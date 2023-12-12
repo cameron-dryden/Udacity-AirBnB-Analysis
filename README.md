@@ -42,6 +42,8 @@ The aim with this model is to find out what effects a good review from users. As
 
 Some factors like whether the listing has a description and the host accpetance rate could contribute to a good review, although its not much it is worth noting.
 
+*The blog post can be found here: https://medium.com/@cameronjames.dryden/how-to-get-more-people-to-visit-your-airbnb-in-cape-town-7e9747a5ecf3*
+
 ## Acknowledgements
 
 - [AirBnB Dataset](http://insideairbnb.com/get-the-data/)
